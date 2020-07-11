@@ -240,7 +240,7 @@ A collection of incredible free resources to help you on your journey. Anything 
 - Operating System
   - [Watch: Understanding OS](https://www.youtube.com/watch?v=pTdSs8kQqSA)
   - [Read: Operating Systems](http://www.technologyuk.net/computing/computer-software/operating-systems/)
-  - Project: What's my OS?](https://whatsmyos.com/)
+  - [Project: What's my OS?](https://whatsmyos.com/)
 
 #### Networks
 - Basics
@@ -334,7 +334,7 @@ A collection of incredible free resources to help you on your journey. Anything 
 >   - [Practice: CTF Problems](https://jacobedelman.gitbooks.io/hsctf-3-practice-problems/content/problems.html)
 
 #### Testing
-- [Read: Integration testing](http://softwaretestingfundamentals.com/integration-testing/) | [Unit testing]](http://softwaretestingfundamentals.com/unit-testing/) | [Functional testing]](http://softwaretestingfundamentals.com/functional-testing/)
+- [Read: Integration testing](http://softwaretestingfundamentals.com/integration-testing/) | [Unit testing](http://softwaretestingfundamentals.com/unit-testing/) | [Functional testing](http://softwaretestingfundamentals.com/functional-testing/)
 - [Watch: Test Results](https://www.youtube.com/watch?v=OWbRNOBDwEk&list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g&index=3)
 - [Practice: Software Testing Exercises](http://softwaretestingfundamentals.com/software-testing-exercises/)
 
@@ -406,7 +406,7 @@ A collection of incredible free resources to help you on your journey. Anything 
   - [Watch: Backpressure](https://www.youtube.com/watch?v=v5wkSN6FRsM)
   - [Read: Circuit Breaker](https://microservices.io/patterns/reliability/circuit-breaker.html)
 - Scaling Basics
-  - [Read: Scaling](https://www.accionlabs.com/articles/2018/4/6/horizontal-versus-vertical-scaling-which-is-right-for-you#:~:text=Horizontal%20scaling%20helps%20you%20scale,RAM)%20to%20your%20existing%20infrastructure.)
+  - [Read: Scaling](https://www.accionlabs.com/articles/2018/4/6/horizontal-versus-vertical-scaling-which-is-right-for-you%20to%20your%20existing%20infrastructure.)
   - [Read: Instrumentation](https://stackoverflow.com/questions/8755211/what-is-meant-by-the-term-instrumentation)
   - [Read: Telemetry](https://stackify.com/telemetry-tutorial/)
 - Monitoring
