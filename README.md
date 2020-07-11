@@ -406,7 +406,7 @@ A collection of incredible free resources to help you on your journey. Anything 
   - [Watch: Backpressure](https://www.youtube.com/watch?v=v5wkSN6FRsM)
   - [Read: Circuit Breaker](https://microservices.io/patterns/reliability/circuit-breaker.html)
 - Scaling Basics
-  - [Read: Scaling](https://www.accionlabs.com/articles/2018/4/6/horizontal-versus-vertical-scaling-which-is-right-for-you%20to%20your%20existing%20infrastructure.)
+  - [Read: Scaling](https://www.ibm.com/blogs/cloud-computing/2014/04/09/explain-vertical-horizontal-scaling-cloud/)
   - [Read: Instrumentation](https://stackoverflow.com/questions/8755211/what-is-meant-by-the-term-instrumentation)
   - [Read: Telemetry](https://stackify.com/telemetry-tutorial/)
 - Monitoring
@@ -424,17 +424,17 @@ A collection of incredible free resources to help you on your journey. Anything 
 
 #### Python
 - Basics
-  - [Course: Python for Everybody]()
-  - [Read: Learn Python]()
-  - [Practice: Violent Python]()
+  - [Course: Python for Everybody](https://www.py4e.com/)
+  - [Read: Learn Python](https://www.learnpython.org/)
+  - [Practice: Violent Python](https://samsclass.info/124/VP2020.htm)
 - Automation
-  - [Python Automation Ideas]()
-  - [Read: Automate the Boring Stuff]()
-  - [Project: Interest Calculator]()
+  - [Python Automation Ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
+  - [Read: Automate the Boring Stuff](http://automatetheboringstuff.com/2e/chapter0/)
+  - [Project: Interest Calculator](https://stackoverflow.com/questions/39985231/interest-calculator-in-python)
 >- Artificial Intelligence
->   - [Course: AI with Python]()
->   - [Watch: Why Tensorflow]()
->   - [Project: Tensorflow]()
+>   - [Course: AI with Python](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
+>   - [Watch: Why Tensorflow](https://www.youtube.com/watch?v=NlpS-DhayQA&feature=emb_logo)
+>   - [Project: Tensorflow](https://www.tensorflow.org/learn)
 - NumPy (Data Analysis)
   - [Watch: What is NumPy?]()
   - [Course: NumPy]()
