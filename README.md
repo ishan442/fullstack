@@ -436,99 +436,99 @@ A collection of incredible free resources to help you on your journey. Anything 
 >   - [Watch: Why Tensorflow](https://www.youtube.com/watch?v=NlpS-DhayQA&feature=emb_logo)
 >   - [Project: Tensorflow](https://www.tensorflow.org/learn)
 - NumPy (Data Analysis)
-  - [Watch: What is NumPy?]()
-  - [Course: NumPy]()
-  - [Read: NumPy Quickstart]()
+  - [Watch: What is NumPy?](https://www.youtube.com/watch?v=Tkv45wgxlEU)
+  - [Course: NumPy](https://cs231n.github.io/python-numpy-tutorial/)
+  - [Read: NumPy Quickstart](https://numpy.org/devdocs/user/quickstart.html)
 - Pandas (Data Analysis)
-  - [Watch: Pandas in 10 minutes]()
-  - [Read: Pandas Cheat Sheet]()
-  - [Read: Getting Started]()
+  - [Watch: Pandas in 10 minutes](https://www.youtube.com/watch?v=_T8LGqJtuGc&feature=emb_logo)
+  - [Read: Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+  - [Read: Getting Started](https://pandas.pydata.org/docs/getting_started/index.html)
 
 >#### Go (Systems Automation)
->- [Course: A Tour of Go]()
->- [Read: Go by Example]()
->- [Practice: Go the Wrong Way]()
+>- [Course: A Tour of Go](https://tour.golang.org/welcome/1)
+>- [Read: Go by Example](https://gobyexample.com/)
+>- [Practice: Go the Wrong Way](https://samsclass.info/127/GoWrong.shtml)
 
 #### Operating System Basics
-- [Read: Hardware]()
-- [Project: Google Cloud Linux Server]()
-- [Project: Install Ubuntu on Raspberry Pi]()
+- [Read: Hardware](https://web.stanford.edu/class/cs101/hardware-1.html)
+- [Project: Google Cloud Linux Server](https://bowneconsultingcontent.com/pub/EH/proj/H201.htm)
+- [Project: Install Ubuntu on Raspberry Pi](https://ubuntu.com/download/raspberry-pi)
 
 #### Server Management
 - Linux
-  - [Course: Grasshopper Linux]()
-  - [Course: Journeyman Linux]()
-  - [Course: Networking Nomad]()
+  - [Course: Grasshopper Linux](https://linuxjourney.com/)
+  - [Course: Journeyman Linux](https://linuxjourney.com/)
+  - [Course: Networking Nomad](https://linuxjourney.com/)
 - Unix
-  - [Course: Unix Tutorial]()
-  - [Watch: Unix Archives]()
-  - [Watch: Making Computers Easier to Use]()
+  - [Course: Unix Tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
+  - [Watch: Unix Archives](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+  - [Watch: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw)
 - Terminal
-  - [Course: Learning the Shell]()
-  - [Read: Linux Command Line]()
-  - [Course: Bash Scripting]()
+  - [Course: Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
+  - [Read: Linux Command Line](http://linuxcommand.org/tlcl.php)
+  - [Course: Bash Scripting](https://www.bash.academy/)
 
 #### Security and Protocols
-- [Course: SSH Essentials]()
-- [Read: FTP (completed)]()
-- [Project: Protecting Privacy]()
+- [Course: SSH Essentials](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+- [Read: FTP](https://www.siteground.com/tutorials/ftp/)
+- [Project: Protecting Privacy](https://security.utexas.edu/)
 
 #### Infrastructure
 - Network Connections
-  - [Read: Reverse & Forward Proxy]()
-  - [Watch: Firewall]()
-  - [Project: Caching Server]()
+  - [Read: Reverse & Forward Proxy](https://smartproxy.com/blog/the-difference-between-a-reverse-proxy-and-a-forward-proxy)
+  - [Watch: Firewall](https://www.nginx.com/learn/waf-web-application-firewall/)
+  - [Project: Caching Server](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.html)
 - Service mesh
-  - [Read: What is ISTIO?]()
-  - [Read: Service Mesh]()
-  - [Project: ISTIO Sample Application]()
+  - [Read: What is ISTIO?](https://istio.io/latest/docs/concepts/what-is-istio/)
+  - [Read: Service Mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
+  - [Project: ISTIO Sample Application](https://istio.io/latest/docs/setup/getting-started/)
 >- Configuration management
->   - [Read: The Automated Enterprise]()
->   - [Watch: What is Ansible?]()
->   - [Course: Ansible Essentials]()
+>   - [Read: The Automated Enterprise](https://www.redhat.com/cms/managed-files/ma-automated-enterprise-e-book-f21603-202002-en.pdf)
+>   - [Watch: What is Ansible?](https://www.ansible.com/resources/videos/quick-start-video)
+>   - [Course: Ansible Essentials](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview)
 - Container Orchestration
-  - [Watch: What is Kubernetes?]()
-  - [Read: Kubernetes Concepts]()
-  - [Course: Learn Kubernetes]()
+  - [Watch: What is Kubernetes?](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+  - [Read: Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
+  - [Course: Learn Kubernetes](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 - Infrastructure Positioning
-   - [Read: What is Terraform?]()
-   - [Watch: Introduction to Terraform]()
-   - [Course: Terraform Tutorials]()
+   - [Read: What is Terraform?](https://www.ibm.com/cloud/learn/terraform)
+   - [Watch: Introduction to Terraform](https://www.youtube.com/watch?time_continue=15&v=h970ZBgKINg&feature=emb_logo)
+   - [Course: Terraform Tutorials](https://learn.hashicorp.com/terraform)
 
 #### Continuous Integration and Continuous Deployment
 - Jenkins
-  - [Watch: CI/CD in 100 seconds]()
-  - [Read: Jenkins Overview]()
-  - [Project: Tour of Jenkins]()
+  - [Watch: CI/CD in 100 seconds](https://www.youtube.com/watch?v=scEDHsr3APg&list=PL0vfts4VzfNiI1BsIK5u7LpPaIDKMJIDN&index=12)
+  - [Read: Jenkins Overview](https://www.jenkins.io/doc/book/getting-started/)
+  - [Project: Tour of Jenkins](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
 - GitLab and GitHub
-  - [Read: Is GitLab any good?]()
-  - [Watch: GitLab Demo]()
-  - [Read: GitHub Actions]()
+  - [Read: Is GitLab any good?](https://about.gitlab.com/is-it-any-good/)
+  - [Watch: GitLab Demo](https://about.gitlab.com/demo/)
+  - [Read: GitHub Actions](https://github.com/features/actions)
 
 >#### Monitoring 
 >- Infrastructure
->   - [Watch: Grafana in 2 minutes]()
->   - [Course: Introduction to Prometheus]()
->   - [Course: Learn Grafana]()
+>   - [Watch: Grafana in 2 minutes](https://www.youtube.com/watch?v=dlz5MMoM4QQ)
+>   - [Course: Introduction to Prometheus](https://training.robustperception.io/p/introduction-to-prometheus)
+>   - [Course: Learn Grafana](https://grafana.com/tutorials/)
 >- Application
->   - [Read: What is DevOps?]()
->   - [Read: What is Jaeger?]()
->   - [Read: About Jaeger]()
+>   - [Read: What is DevOps?](https://newrelic.com/devops/what-is-devops)
+>   - [Read: What is Jaeger?](https://www.redhat.com/en/topics/microservices/what-is-jaeger)
+>   - [Read: About Jaeger](https://www.jaegertracing.io/docs/1.18/)
 
 #### Cloud Providers
 - Amazon Web Services
-  - [Read: Cloud Basics]()
-  - [Course: AWS Fundamentals]()
-  - [Course: AWS Essentials]()
+  - [Read: Cloud Basics](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/)
+  - [Course: AWS Fundamentals](https://www.aws.training/Details/Video?id=49639)
+  - [Course: AWS Essentials](https://www.aws.training/Details/Curriculum?id=27076)
 - Digital Ocean
-  - [Watch: Digital Ocean Simplicity]()
-  - [Read: Guide to Digital Ocean]()
-  - [Project: Portfolio with DigitalOcean]()
+  - [Watch: Digital Ocean Simplicity](https://www.youtube.com/watch?v=UMfJNg_SVj0)
+  - [Read: Guide to Digital Ocean](https://www.digitalocean.com/community/tutorial_series/the-navigator-s-guide-to-digitalocean)
+  - [Project: Portfolio with DigitalOcean](https://scrimba.com/course/gportfolio)
 
 #### Cloud Design Patterns
-- [Read: Architecting Availability]()
-- [Watch: Data Management in the Cloud]()
-- [Read: Architecture Patterns]()
+- [Read: Architecting Availability](https://www.ibm.com/garage/method/practices/run/cloud-platform-for-ha/)
+- [Watch: Data Management in the Cloud](https://www.youtube.com/watch?v=H5OmbAFWmVo&feature=youtu.be)
+- [Read: Architecture Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 
 ### Contribution
