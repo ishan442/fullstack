@@ -425,7 +425,7 @@ A collection of incredible free resources to help you on your journey. Anything 
 #### Python
 - Basics
   - [Course: Python for Everybody](https://www.py4e.com/)
-  - [Read: Learn Python](https://www.learnpython.org/)
+  - [Read: The Python Tutorial](https://docs.python.org/3/tutorial/)
   - [Practice: Violent Python](https://samsclass.info/124/VP2020.htm)
 - Automation
   - [Python Automation Ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
