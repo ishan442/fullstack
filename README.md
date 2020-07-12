@@ -477,8 +477,8 @@ A collection of incredible free resources to help you on your journey. Anything 
 - Network Connections
   - [Read: Reverse & Forward Proxy](https://smartproxy.com/blog/the-difference-between-a-reverse-proxy-and-a-forward-proxy)
   - [Watch: Firewall](https://www.nginx.com/learn/waf-web-application-firewall/)
-  - [Project: Caching Server](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/GettingStarted.html)
-- Service mesh
+  - [Watch: Virtual Networking](https://www.youtube.com/watch?v=u0TgGIn2LIM)
+- Service Mesh
   - [Read: What is ISTIO?](https://istio.io/latest/docs/concepts/what-is-istio/)
   - [Read: Service Mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
   - [Project: ISTIO Sample Application](https://istio.io/latest/docs/setup/getting-started/)
