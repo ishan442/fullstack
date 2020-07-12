@@ -382,7 +382,7 @@ A collection of incredible free resources to help you on your journey. Anything 
 
 #### Containerization and Virtualization
 - [Course: Docker](https://www.docker.com/101-tutorial)
-- [Read: About Virtual Box](https://www.virtualbox.org/wiki/VirtualBox)
+- [Watch: Virtualization Explained](https://www.youtube.com/watch?v=FZR0rG3HKIk)
 - [Project: Play with Docker](https://labs.play-with-docker.com/)
 
 >#### Graph Databases
