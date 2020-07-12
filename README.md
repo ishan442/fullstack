@@ -33,7 +33,7 @@ A collection of incredible free resources to help you on your journey. Anything 
 - [Project: Search Random Words for SEO Rankings](https://randomwordgenerator.com/)
 
 #### Accessibility
-- [Watch: Keeping Accessibility in Mind](https://www.youtube.com/watch?time_continue=340&v=yx7hdQqf8lE&feature=emb_logo)
+- [Watch: Keeping Accessibility in Mind](https://www.youtube.com/watch?v=yx7hdQqf8lE)
 - [Read: Accessibility](https://web.dev/accessible/)
 - [Practice: Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
 
@@ -74,7 +74,7 @@ A collection of incredible free resources to help you on your journey. Anything 
   - [Read: ES6 Features](http://es6-features.org/#Constants)
   - [Practice: ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
 - Algorithms
-  - [Watch: What is an Algorithm](https://www.ted.com/talks/david_j_malan_what_s_an_algorithm?language=en)
+  - [Watch: What is an Algorithm?](https://www.ted.com/talks/david_j_malan_what_s_an_algorithm?language=en)
   - [Course: Guide to Algorithms](https://scrimba.com/course/galgorithmsguide)
   - [Practice: Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
 - Network Requests
@@ -176,7 +176,7 @@ A collection of incredible free resources to help you on your journey. Anything 
 
 #### Progressive Web Applications
 - [Read: Progressive Web Apps](https://web.dev/progressive-web-apps/)
-- [Read: Faster Sites](https://web.dev/fast/) | Vitals](https://web.dev/vitals/)
+- [Read: Faster Sites](https://web.dev/fast/) | [Vitals](https://web.dev/vitals/)
 - [Read: Site Speed](https://www.cloudflare.com/learning/performance/why-site-speed-matters/)
 
 #### Lighthouse (Analyze Webpages)
@@ -482,7 +482,7 @@ A collection of incredible free resources to help you on your journey. Anything 
   - [Read: What is ISTIO?](https://istio.io/latest/docs/concepts/what-is-istio/)
   - [Read: Service Mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
   - [Project: ISTIO Sample Application](https://istio.io/latest/docs/setup/getting-started/)
->- Configuration management
+>- Configuration Management
 >   - [Read: The Automated Enterprise](https://www.redhat.com/cms/managed-files/ma-automated-enterprise-e-book-f21603-202002-en.pdf)
 >   - [Watch: What is Ansible?](https://www.ansible.com/resources/videos/quick-start-video)
 >   - [Course: Ansible Essentials](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview)
@@ -494,6 +494,11 @@ A collection of incredible free resources to help you on your journey. Anything 
    - [Read: What is Terraform?](https://www.ibm.com/cloud/learn/terraform)
    - [Watch: Introduction to Terraform](https://www.youtube.com/watch?time_continue=15&v=h970ZBgKINg&feature=emb_logo)
    - [Course: Terraform Tutorials](https://learn.hashicorp.com/terraform)
+- Service Models
+   - [Read: Defining IaaS, PaaS and SaaS](https://www.ibm.com/cloud/learn/iaas-paas-saas)
+   - [Watch: What is PaaS?](https://www.youtube.com/watch?v=QAbqJzd0PEE)
+   - [Course: What is IaaS?](https://www.youtube.com/watch?v=XRdmfo4M_YA)
+  
 
 #### Continuous Integration and Continuous Deployment
 - Jenkins
