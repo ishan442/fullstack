@@ -451,8 +451,8 @@ A collection of incredible free resources to help you on your journey. Anything 
 
 #### Operating System Basics
 - [Read: Hardware](https://web.stanford.edu/class/cs101/hardware-1.html)
+- [Watch: What is DevOPs?](https://www.youtube.com/watch?v=UbtB4sMaaNM)
 - [Project: Google Cloud Linux Server](https://bowneconsultingcontent.com/pub/EH/proj/H201.htm)
-- [Project: Install Ubuntu on Raspberry Pi](https://ubuntu.com/download/raspberry-pi)
 
 #### Server Management
 - Linux
