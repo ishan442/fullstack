@@ -1,6 +1,11 @@
 # Become a Full Stack Developer in 2020
 A collection of incredible free resources to help you on your journey. Anything in gray is optional. Check out the following [guide](https://github.com/kamranahmedse/developer-roadmap) for a sequential roadmap.
 
+#### Shortcuts
+- [Front-End](#Front-End)
+- [Back-End](#Back-End)
+- [DevOps](#DevOps)
+
 ---
 
 ## Front-End
