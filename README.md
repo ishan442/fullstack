@@ -353,7 +353,7 @@ A collection of incredible free resources to help you on your journey. Anything 
   - Liskov substitution principle
   - Interface segregation principle
   - Dependency Inversion Principle
-  - KISS (Keep It Simple Stupid)
+- KISS (Keep It Simple Stupid)
 - YAGNI (You Aren’t Gonna Need It)
 - DRY (Don’t Repeat Yourself)
 
